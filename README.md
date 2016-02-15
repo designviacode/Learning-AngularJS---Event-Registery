@@ -1,1 +1,1 @@
-# Learning-AngularJS---Event-Registery
+# Learning-AngularJS-event-listing
